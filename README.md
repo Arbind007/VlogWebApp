@@ -8,3 +8,4 @@ Initial Stage Of the App
 <img width="1070" alt="Screenshot 2021-05-10 at 1 11 31 AM" src="https://user-images.githubusercontent.com/56961555/117584891-25c14580-b12d-11eb-905b-ee4cf9817bca.png">
 
 
+![Screenshot 2021-05-10 at 1 11 47 AM](https://user-images.githubusercontent.com/56961555/117584925-52755d00-b12d-11eb-9924-a4b6b5596759.png)
