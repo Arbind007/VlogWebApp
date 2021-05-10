@@ -1,6 +1,7 @@
 import React from "react";
 import HomePage from "./components/homepage/homepage";
 import VlogPage from "./components/vlogpage/vlogpage";
+import AddVlog from "./components/vlogupload/vlogupload";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { Provider } from "./context";
 import VlogIndvidual from "./components/vlogindividual/vlogindividual";
@@ -16,6 +17,7 @@ function App() {
           <Route exact path="/" component={HomePage} />
           <Route exact path="/allvlog" component={VlogPage} />
           <Route exact path="/vlog/:id" component={VlogIndvidual} />
+          <Route exact path="/addvlog" component={AddVlog} />
         </Switch>
       </BrowserRouter>
     </Provider>
