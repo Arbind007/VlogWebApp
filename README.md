@@ -10,6 +10,8 @@ Initial Stage Of the App !!
 
 ![Screenshot 2021-05-10 at 1 11 47 AM](https://user-images.githubusercontent.com/56961555/117584925-52755d00-b12d-11eb-9924-a4b6b5596759.png)
 
+<img width="882" alt="Screenshot 2021-05-10 at 3 50 46 PM" src="https://user-images.githubusercontent.com/56961555/117645250-0287ac00-b1a8-11eb-8bc6-8b5d9640dff6.png">
+
 # Contributors
 
 <table>
